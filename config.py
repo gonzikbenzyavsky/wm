@@ -1,7 +1,7 @@
-TOKEN = '1018631586:AAH0_7YW69IolgVBW9HfFgr9bMiXgzwz7vYz'
+TOKEN = '1018631586:AAH0_7YW69IolgVBW9HfFgr9bMiXgzwz7vY'
 BOT_NAME = 'Фаг'
 BOT_LOGIN = 'Faggoatbot'
-AI_TOKEN = 'a1cfca26418644cb91966ca22c57df8ez'
+AI_TOKEN = 'a1cfca26418644cb91966ca22c57df8e'
 
 WEBHOOK_HOST = 'thegangsters.ru'
 
