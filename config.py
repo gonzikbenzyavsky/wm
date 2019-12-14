@@ -11,4 +11,4 @@ WEBHOOK_LISTEN = '127.0.0.1'
 WEBHOOK_SSL_CERT = '/home/godfather/ssl/ssl-bundle.crt'  # Path to the ssl certificate
 WEBHOOK_SSL_PRIV = '/home/godfather/ssl/thegangsters.key'  # Path to the ssl private key
 
-NEW_TEST = ''
+NEW_TEST = '1'
